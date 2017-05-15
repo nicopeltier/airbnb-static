@@ -1,0 +1,22 @@
+/* Footer design */
+.footer {
+  background-color: #333333;
+  height: 150px;
+  /*padding: 30px;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #CCCCCC;
+}
+
+.footer a {
+  font-size: 40px;
+  color: #CCCCCC;
+}
+
+.footer a:hover {
+  color: #428BCA;
+}
+
+
